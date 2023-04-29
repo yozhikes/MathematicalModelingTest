@@ -1,0 +1,13 @@
+C:\Users\yozhikes\Desktop\TrainingPractice_02\bin\Debug\MathematicalModelingTestByMidili.exe.config
+C:\Users\yozhikes\Desktop\TrainingPractice_02\bin\Debug\MathematicalModelingTestByMidili.exe
+C:\Users\yozhikes\Desktop\TrainingPractice_02\bin\Debug\MathematicalModelingTestByMidili.pdb
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MNO_Task_28.csproj.AssemblyReference.cache
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MNO_Task_28.csproj.SuggestedBindingRedirects.cache
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MathematicalModelingTestByMidili.Forms.ResultForm.resources
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MathematicalModelingTestByMidili.StartForm.resources
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MathematicalModelingTestByMidili.Forms.TestForm.resources
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MathematicalModelingTestByMidili.Properties.Resources.resources
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MNO_Task_28.csproj.GenerateResource.cache
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MNO_Task_28.csproj.CoreCompileInputs.cache
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MathematicalModelingTestByMidili.exe
+C:\Users\yozhikes\Desktop\TrainingPractice_02\obj\Debug\MathematicalModelingTestByMidili.pdb
