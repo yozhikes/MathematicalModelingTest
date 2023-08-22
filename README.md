@@ -1,1 +1,1 @@
-# TrainingPractice_02
+# MathematicalModelingTest
